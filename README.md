@@ -1,2 +1,2 @@
-# hn-demo
+# -demo
 A disciplined writer
